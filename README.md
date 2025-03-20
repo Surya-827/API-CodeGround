@@ -1,5 +1,5 @@
 # API Features and Learning Resources  
-This ``Read.md`` File Contains info regarding API's as followed by,
+This ``Read.md`` File Contains info regarding API's as followed by below,
 
 ## Git Commands: Never Skipped while kick-starting
 Welcome to this comprehensive guide on Git commands! This document will cover essential commands, organized from beginner to advanced levels, to help you master Git.  
