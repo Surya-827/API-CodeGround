@@ -73,7 +73,7 @@ Below is a curated list of over **100 APIs** you can explore and experiment with
 - [WooCommerce API](https://woocommerce.github.io/woocommerce-rest-api-docs/)  
 - [BigCommerce API](https://developer.bigcommerce.com/api)  
 
-> **Note**: This is just a sample of the APIs. For a complete list of 100+ APIs, please check the links below:  
+> **Note**: This is just a sample of the APIs. For a complete list of 100+ APIs, please check the links mentioned below:  
 - [Complete API List](https://example.com/all-apis)  
 
 ## Conclusion  
